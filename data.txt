@@ -1,0 +1,5 @@
+Zorthosaurus,23,1,0
+Quiladon,69,0,1
+Trivornix,45,1,0
+Velociron,99,0,1
+Stegoclaws,1,2,0
